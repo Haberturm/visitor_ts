@@ -39,8 +39,8 @@ class Visitor {
     visitMercedes(mercedes:Mercedes){
         mercedes.startEngine()
     }
-    visitToyota(dolphin:Toyota){
-        dolphin.startEngine()
+    visitToyota(toyota:Toyota){
+        toyota.startEngine()
     }
 }
  
